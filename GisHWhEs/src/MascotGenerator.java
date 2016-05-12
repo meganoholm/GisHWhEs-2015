@@ -9,7 +9,7 @@ public class MascotGenerator {
 	public static void main(String[] args) {
 		//get a random number generator
 		Random rand = new Random();
-		//create a scanner to read keyboard input
+		//create a scanner to read in keyboard input
 		Scanner keyboard = new Scanner(System.in);
 		//set the number of options
 		int options = 21;
